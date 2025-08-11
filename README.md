@@ -6,11 +6,15 @@ RecipeX is a Flutter app that allows you to create, manage, and share your favor
 
 ## Features
 
-- Add, edit, and delete recipes  
-- Upload and crop recipe images seamlessly  
-- Organized recipe list for easy browsing  
-- Runtime permission handling for media access  
-- Clean UI built with Flutter
+Browse recipes easily 
+
+View and manage your user Profile
+
+Access detailed Recipe information in a dedicated tab
+
+Toggle between Light and Dark themes for comfortable viewing
+
+Simple and clean tab-based navigation
 
 ---
 
